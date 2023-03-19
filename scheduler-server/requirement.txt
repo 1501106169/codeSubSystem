@@ -1,3 +1,4 @@
 flask==2.2.2
 docker==6.0.0
 flask-cors==3.0.10
+tornado==6.2
