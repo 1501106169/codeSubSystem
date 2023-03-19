@@ -1,7 +1,7 @@
 # 客户端
 
  * [中文文档](https://github.com/1501106169/codeSubSystem/tree/master/schedule-algorithm-test)
- * [英文文档](https://github.com/1501106169/codeSubSystem/blob/master/schedule-algorithm-test/README.md)
+ * [英文文档](https://github.com/1501106169/codeSubSystem/blob/master/schedule-algorithm-test/README-en.md)
 
 ## 开发
 
